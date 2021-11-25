@@ -1,0 +1,26 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andydhpkp/social-network-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andydhpkp/social-network-api/issues"
+  },
+  "homepage": "https://github.com/andydhpkp/social-network-api#readme",
+  "dependencies": {
+    "date-fns": "^2.26.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
+}
